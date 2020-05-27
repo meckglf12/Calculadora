@@ -50,3 +50,4 @@ for item in lista :
     print(item)
 
 
+print("teste")
